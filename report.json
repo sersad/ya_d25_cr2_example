@@ -1,0 +1,12 @@
+{
+    "Marketing": {
+        "budget": 5000,
+        "experience": 4,
+        "specialization": "SEO"
+    },
+    "R&D": {
+        "budget": 15000,
+        "experience": 10,
+        "specialization": "Backend"
+    }
+}

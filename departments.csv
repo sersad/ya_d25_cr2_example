@@ -1,0 +1,6 @@
+no;department;employee;specialization;experience;budget
+1;R&D;Alice;AI;5;5000
+2;R&D;Bob;Backend;8;6000
+3;Marketing;Charlie;SEO;3;2000
+4;R&D;Dave;AI;10;4000
+5;Marketing;Eve;Content;4;3000
